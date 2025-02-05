@@ -1,0 +1,1 @@
+var json_highway_5 = {"type":"FeatureCollection","name":"highway_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n3290324924","osm_id":"3290324924","osm_type":"node","highway":"bus_stop"},"geometry":{"type":"Point","coordinates":[81.0771731,55.057348]}}]}
